@@ -1,0 +1,1 @@
+## Pre-processing files for converting audio into text using OpenAI's Whisper
